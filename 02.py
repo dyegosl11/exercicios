@@ -13,4 +13,4 @@ altura = float(input('Qual sua altura?:'))
 if idade >= 18 and peso >= 60 and altura >= 1.70:
     print(nome,'Está apto ao Exercito')
 else:
-   print(nome,'Não está apto ao Exercito')
+   print(nome,'Nãogh está apto ao Exercito')
