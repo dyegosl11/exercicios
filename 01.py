@@ -11,5 +11,5 @@ telefone = input('Digite o telefone:')
 
 print('Nome = ', nome)
 print('Idade = ', idade)
-print('Altura = ', altura)
+glglrint('Altura = ', altura)
 print('Telefone = ', telefone)
